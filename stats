@@ -1,0 +1,80 @@
+Pos,Team,Parts,Pld,W,D,L,GF,GA,GD,Pts,AvgPts,BestFinish,Confederation
+1,Brazil,21,109,73,18,18,229,105,124,237,2.17,Winner (5 times),CONMEBOL
+2,Germany,19,109,67,20,22,226,125,101,221,2.03,Winner (4 times),UEFA
+3,Italy,18,83,45,21,17,128,77,51,156,1.88,Winner (4 times),UEFA
+4,Argentina,17,81,43,15,23,137,93,44,144,1.78,Winner (2 times),CONMEBOL
+5,France,15,66,34,13,19,120,77,43,115,1.74,Winner (2 times),UEFA
+6,England,15,69,29,21,19,91,64,27,108,1.56,Winner (1 time),UEFA
+7,Spain,15,63,30,15,18,99,72,27,105,1.67,Winner (1 time),UEFA
+8,Netherlands,10,50,27,12,11,86,48,38,93,1.86,Runners-up,UEFA
+9,Uruguay,13,56,24,12,20,87,74,13,84,1.5,Winner (2 times),CONMEBOL
+10,Sweden,12,51,19,13,19,80,73,7,70,1.37,Runners-up,UEFA
+11,Belgium,13,48,20,9,19,68,72,-4,69,1.44,Third place,UEFA
+12,Russia,11,45,19,10,16,77,54,23,67,1.49,Fourth place,UEFA
+13,Serbia,12,46,18,8,20,66,63,3,62,1.34,Fourth place,UEFA
+14,Mexico,16,57,16,14,27,60,98,-38,62,1.09,Quarter-finals,CONCACAF
+15,Poland,8,34,16,5,13,46,45,1,53,1.56,Third place,UEFA
+16,Hungary,9,32,15,3,14,87,57,30,48,1.5,Runners-up,UEFA
+17,Portugal,7,30,14,6,10,49,35,14,48,1.6,Third place,UEFA
+18,Switzerland,11,37,12,8,17,50,64,-14,44,1.19,Quarter-finals,UEFA
+19,Czech Republic,9,33,12,5,16,47,49,-2,41,1.24,Runners-up,UEFA
+20,Austria,7,29,12,4,13,43,47,-4,40,1.38,Third place,UEFA
+21,Chile,9,33,11,7,15,40,49,-9,40,1.21,Third place,CONMEBOL
+22,Croatia,5,23,11,4,8,35,26,9,37,1.61,Runners-up,UEFA
+23,Denmark,5,20,9,5,6,30,26,4,32,1.6,Quarter-finals,UEFA
+24,Paraguay,8,27,7,10,10,30,38,-8,31,1.15,Quarter-finals,CONMEBOL
+25,Colombia,6,22,9,3,10,32,30,2,30,1.36,Quarter-finals,CONMEBOL
+26,United States,10,33,8,6,19,37,62,-25,30,0.91,Third place,CONCACAF
+27,Romania,7,21,8,5,8,30,32,-2,29,1.38,Quarter-finals,UEFA
+28,South Korea,10,34,6,9,19,34,70,-36,27,0.79,Fourth place,AFC
+29,Nigeria,6,21,6,3,12,23,30,-7,21,1,Second round,CAF
+30,Japan,6,21,5,5,11,20,29,-9,20,0.95,Second round,AFC
+31,Costa Rica,5,18,5,5,8,19,28,-9,20,1.11,Quarter-finals,CONCACAF
+32,Scotland,8,23,4,7,12,25,41,-16,19,0.83,First round,UEFA
+33,Cameroon,7,23,4,7,12,18,43,-25,19,0.83,Quarter-finals,CAF
+34,Peru,5,18,5,3,10,21,33,-12,18,1,Quarter-finals,CONMEBOL
+35,Bulgaria,7,26,3,8,15,22,53,-31,17,0.65,Fourth place,UEFA
+36,Turkey,2,10,5,1,4,20,17,3,16,1.6,Third place,UEFA
+37,Ghana,3,12,4,3,5,13,16,-3,15,1.25,Quarter-finals,CAF
+38,Republic of Ireland,3,13,2,8,3,10,10,0,14,1.08,Quarter-finals,UEFA
+39,Northern Ireland,3,13,3,5,5,13,23,-10,14,1.08,Quarter-finals,UEFA
+40,Ecuador,3,10,4,1,5,10,11,-1,13,1.3,Second round,CONMEBOL
+41,Senegal,2,8,3,3,2,11,10,1,12,1.5,Quarter-finals,CAF
+42,Algeria,4,13,3,3,7,13,19,-6,12,0.92,Second round,CAF
+43,Morocco,5,16,2,5,9,14,22,-8,11,0.69,Second round,CAF
+44,Saudi Arabia,5,16,3,2,11,11,39,-28,11,0.69,Second round,AFC
+45,Ivory Coast,3,9,3,1,5,13,14,-1,10,1.11,First round,CAF
+46,South Africa,3,9,2,4,3,11,16,-5,10,1.11,First round,CAF
+47,Tunisia,5,15,2,4,9,13,25,-12,10,0.67,First round,CAF
+48,Iran,5,15,2,4,9,9,24,-15,10,0.67,First round,AFC
+49,Australia,5,16,2,4,10,13,31,-18,10,0.63,Second round,AFC
+50,Norway,3,8,2,3,3,7,8,-1,9,1.13,Second round,UEFA
+51,East Germany,1,6,2,2,2,5,5,0,8,1.33,Quarter-finals,UEFA
+52,Greece,3,10,2,2,6,5,20,-15,8,0.8,Second round,UEFA
+53,Ukraine,1,5,2,1,2,5,7,-2,7,1.4,Quarter-finals,UEFA
+54,Wales,1,5,1,3,1,4,4,0,6,1.2,Quarter-finals,UEFA
+55,Slovakia,1,4,1,1,2,5,7,-2,4,1,Second round,UEFA
+56,Slovenia,2,6,1,1,4,5,10,-5,4,0.67,First round,UEFA
+57,Cuba,1,3,1,1,1,5,12,-7,4,1.33,Quarter-finals,CONCACAF
+58,North Korea,2,7,1,1,5,6,21,-15,4,0.57,Quarter-finals,AFC
+59,Bosnia and Herzegovina,1,3,1,0,2,4,4,0,3,1,First round,UEFA
+60,Jamaica,1,3,1,0,2,3,9,-6,3,1,First round,CONCACAF
+61,New Zealand,2,6,0,3,3,4,14,-10,3,0.5,First round,OFC
+62,Honduras,3,9,0,3,6,3,14,-11,3,0.33,First round,CONCACAF
+63,Angola,1,3,0,2,1,1,2,-1,2,0.67,First round,CAF
+64,Israel,1,3,0,2,1,1,3,-2,2,0.67,First round,UEFA
+65,Egypt,3,7,0,2,5,5,12,-7,2,0.29,First round,CAF
+66,Iceland,1,3,0,1,2,2,5,-3,1,0.33,First round,UEFA
+67,Kuwait,1,3,0,1,2,2,6,-4,1,0.33,First round,AFC
+68,Trinidad and Tobago,1,3,0,1,2,0,4,-4,1,0.33,First round,CONCACAF
+69,Bolivia,3,6,0,1,5,1,20,-19,1,0.17,First round,CONMEBOL
+70,Iraq,1,3,0,0,3,1,4,-3,0,0,First round,AFC
+71,Togo,1,3,0,0,3,1,6,-5,0,0,First round,CAF
+72,Canada,1,3,0,0,3,0,5,-5,0,0,First round,CONCACAF
+73,Indonesia,1,1,0,0,1,0,6,-6,0,0,First round,AFC
+74,Panama,1,3,0,0,3,2,11,-9,0,0,First round,CONCACAF
+74,United Arab Emirates,1,3,0,0,3,2,11,-9,0,0,First round,AFC
+76,China PR,1,3,0,0,3,0,9,-9,0,0,First round,AFC
+77,Haiti,1,3,0,0,3,2,14,-12,0,0,First round,CONCACAF
+78,DR Congo,1,3,0,0,3,0,14,-14,0,0,First round,CAF
+79,El Salvador,2,6,0,0,6,1,22,-21,0,0,First round,CONCACAF
